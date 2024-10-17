@@ -9,7 +9,7 @@ Version:	2.0.1
 Release:	3
 License:	GPLv2+
 Group:		Networking/Remote access
-Url:		http://italc.sourceforge.net/
+Url:		https://italc.sourceforge.net/
 Source0:	italc2-%{version}.tar.bz2
 Source2:	italc-start_ica
 Source3:	italc.sysconfig
